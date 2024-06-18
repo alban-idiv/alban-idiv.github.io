@@ -112,11 +112,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Alban"
+  avatar           : "/assets/images/portrait_with_scarf.jpeg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Berlin"
+  email            : "alban.sagouis@idiv.de"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
